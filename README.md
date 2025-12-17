@@ -1,6 +1,6 @@
-🌱 MobilePlantViT
+**🌱 MobilePlantViT
 
-A Lightweight Hybrid Vision Transformer for Plant Disease Detection (CCMT Dataset)
+A Lightweight Hybrid Vision Transformer for Plant Disease Detection (CCMT Dataset)**
 
 📌 Project Overview
 
